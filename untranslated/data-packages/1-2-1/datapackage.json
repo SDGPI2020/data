@@ -12,27 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Demographic Characteristic",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total_Poverty",
-                "Male_Poverty",
-                "Female_Poverty",
-                "White_Alone_Poverty",
-                "Black_Alone_Poverty",
-                "American_Indian_Poverty",
-                "Asian_Poverty",
-                "Pacific_Islander_Poverty",
-                "Other_Race_Poverty",
-                "Two_Or_More_Races_Poverty",
-                "Hispanic_Or_Latino_Poverty",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

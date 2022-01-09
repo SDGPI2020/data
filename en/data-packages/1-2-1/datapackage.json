@@ -11,34 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Demographic Characteristic",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "American_Indian_Poverty",
-                "Asian_Poverty",
-                "Black_Alone_Poverty",
-                "Female_Poverty",
-                "Hispanic_Or_Latino_Poverty",
-                "Male_Poverty",
-                "Other_Race_Poverty",
-                "Pacific_Islander_Poverty",
-                "Total_Poverty",
-                "Two_Or_More_Races_Poverty",
-                "White_Alone_Poverty"
-              ]
-            },
-            "title": "Demographic Characteristic"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           }
         ]

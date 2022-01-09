@@ -39,51 +39,6 @@
       "title": "Proporción de la población que vive por debajo del umbral internacional de pobreza, desglosada por sexo, edad, situación laboral y ubicación geográfica (urbana o rural)"
     },
     {
-      "path": "1-2-1/data.csv",
-      "name": "1-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Demographic Characteristic",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total_Poverty",
-                "Male_Poverty",
-                "Female_Poverty",
-                "White_Alone_Poverty",
-                "Black_Alone_Poverty",
-                "American_Indian_Poverty",
-                "Asian_Poverty",
-                "Pacific_Islander_Poverty",
-                "Other_Race_Poverty",
-                "Two_Or_More_Races_Poverty",
-                "Hispanic_Or_Latino_Poverty",
-                ""
-              ]
-            },
-            "title": "Demographic Characteristic"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proporción de la población que vive por debajo del umbral nacional de pobreza, desglosada por sexo y edad"
-    },
-    {
       "path": "15-4-2/data.csv",
       "name": "15-4-2",
       "profile": "tabular-data-resource",
@@ -4834,6 +4789,30 @@
         ]
       },
       "title": "Grado en que i) la educación para la ciudadanía mundial y ii) la educación para el desarrollo sostenible se incorporan en a) las políticas nacionales de educación, b) los planes de estudio, \nc) la formación del profesorado y d) la evaluación de los estudiantes"
+    },
+    {
+      "path": "1-2-1/data.csv",
+      "name": "1-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proporción de la población que vive por debajo del umbral nacional de pobreza, desglosada por sexo y edad"
     },
     {
       "path": "8-10-1/data.csv",

@@ -1,12 +1,1 @@
-Year,Demographic Characteristic,Value
-2019,Total_Poverty,11.76
-2019,Male_Poverty,10.79
-2019,Female_Poverty,12.67
-2019,White_Alone_Poverty,10.04
-2019,Black_Alone_Poverty,19.0
-2019,American_Indian_Poverty,15.82
-2019,Asian_Poverty,10.81
-2019,Pacific_Islander_Poverty,16.96
-2019,Other_Race_Poverty,14.41
-2019,Two_Or_More_Races_Poverty,11.5
-2019,Hispanic_Or_Latino_Poverty,13.26
+Year,Value
