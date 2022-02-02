@@ -1,23 +1,97 @@
-﻿Year,Demographic Characteristic,Value
-2019,Total_Poverty,0.116
-2019,Male_Poverty,0.107
-2019,Female_Poverty,0.124
-2019,White_Alone_Poverty,0.11
-2019,Black_Alone_Poverty,0.189
-2019,American_Indian_Poverty,0.165
-2019,Asian_Poverty,0.01
-2019,Pacific_Islander_Poverty,0.137
-2019,Other_Race_Poverty,0.165
-2019,Two_Or_More_Races_Poverty,0.126
-2019,Hispanic_Or_Latino_Poverty,0.156
-2018,Total_Poverty,0.108
-2018,Male_Poverty,0.107
-2018,Female_Poverty,0.124
-2018,White_Alone_Poverty,0.11
-2018,Black_Alone_Poverty,0.195
-2018,American_Indian_Poverty,0.172
-2018,Asian_Poverty,0.01
-2018,Pacific_Islander_Poverty,0.104
-2018,Other_Race_Poverty,0.197
-2018,Two_Or_More_Races_Poverty,0.126
-2018,Hispanic_Or_Latino_Poverty,0.174
+Year,Demographic Characteristics  ,Value
+2012,Total,0.139
+2013,Total,0.144
+2014,Total,0.147
+2015,Total,0.145
+2016,Total,0.14
+2017,Total,0.133
+2018,Total,0.125
+2019,Total,0.116
+2012,Male,0.13
+2013,Male,0.137
+2014,Male,0.139
+2015,Male,0.135
+2016,Male,0.131
+2017,Male,0.124
+2018,Male,0.116
+2019,Male,0.107
+2012,Female,0.147
+2013,Female,0.152
+2014,Female,0.155
+2015,Female,0.154
+2016,Female,0.149
+2017,Female,0.142
+2018,Female,0.134
+2019,Female,0.124
+2012,White,0.131
+2013,White,0.136
+2014,White,0.138
+2015,White,0.137
+2016,White,0.132
+2017,White,0.126
+2018,White,0.118
+2019,White,0.11
+2012,Black or African American,0.204
+2013,Black or African American,0.209
+2014,Black or African American,0.212
+2015,Black or African American,0.204
+2016,Black or African American,0.201
+2017,Black or African American,0.199
+2018,Black or African American,0.195
+2019,Black or African American,0.189
+2012,American Indian and Alaska Native,0.208
+2013,American Indian and Alaska Native,0.192
+2014,American Indian and Alaska Native,0.185
+2015,American Indian and Alaska Native,0.187
+2016,American Indian and Alaska Native,0.202
+2017,American Indian and Alaska Native,0.204
+2018,American Indian and Alaska Native,0.172
+2019,American Indian and Alaska Native,0.165
+2012,Asian,0.108
+2013,Asian,0.11
+2014,Asian,0.112
+2015,Asian,0.111
+2016,Asian,0.107
+2017,Asian,0.103
+2018,Asian,0.102
+2019,Asian,0.01
+2012,Native Hawaiian and Other Pacific Islander,0.13
+2013,Native Hawaiian and Other Pacific Islander,0.15
+2014,Native Hawaiian and Other Pacific Islander,0.167
+2015,Native Hawaiian and Other Pacific Islander,0.141
+2016,Native Hawaiian and Other Pacific Islander,0.146
+2017,Native Hawaiian and Other Pacific Islander,0.129
+2018,Native Hawaiian and Other Pacific Islander,0.104
+2019,Native Hawaiian and Other Pacific Islander,0.137
+2012,Some other race,0.224
+2013,Some other race,0.242
+2014,Some other race,0.25
+2015,Some other race,0.238
+2016,Some other race,0.231
+2017,Some other race,0.215
+2018,Some other race,0.197
+2019,Some other race,0.165
+2012,Two or more races,0.128
+2013,Two or more races,0.141
+2014,Two or more races,0.144
+2015,Two or more races,0.14
+2016,Two or more races,0.143
+2017,Two or more races,0.138
+2018,Two or more races,0.126
+2019,Two or more races,0.108
+2012,Hispanic or Latino origin (of any race),0.201
+2013,Hispanic or Latino origin (of any race),0.205
+2014,Hispanic or Latino origin (of any race),0.206
+2015,Hispanic or Latino origin (of any race),0.202
+2016,Hispanic or Latino origin (of any race),0.196
+2017,Hispanic or Latino origin (of any race),0.187
+2018,Hispanic or Latino origin (of any race),0.174
+2019,Hispanic or Latino origin (of any race),0.156
+2012,"White , not Hispanic or Latino",0.098
+2013,"White , not Hispanic or Latino",0.105
+2014,"White , not Hispanic or Latino",0.107
+2015,"White , not Hispanic or Latino",0.106
+2016,"White , not Hispanic or Latino",0.101
+2017,"White , not Hispanic or Latino",0.095
+2018,"White , not Hispanic or Latino",0.089
+2019,"White , not Hispanic or Latino",0.084
