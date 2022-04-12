@@ -12,10 +12,11 @@
         "fields": [
           {
             "name": "San Diego County ",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
-                ""
+                "",
+                "San Diego County"
               ]
             },
             "title": "San Diego County "
