@@ -17,7 +17,7 @@
             "type": "integer"
           },
           {
-            "name": "San Diego County ",
+            "name": "San Diego County",
             "type": "string",
             "constraints": {
               "enum": [

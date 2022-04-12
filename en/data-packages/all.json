@@ -13,7 +13,7 @@
       "schema": {
         "fields": [
           {
-            "name": "San Diego County ",
+            "name": "San Diego County",
             "type": "string",
             "constraints": {
               "enum": [
@@ -21,7 +21,7 @@
                 "San Diego County"
               ]
             },
-            "title": "San Diego County "
+            "title": "San Diego County"
           },
           {
             "name": "Value",
