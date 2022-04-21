@@ -35,7 +35,7 @@
           }
         ]
       },
-      "title": "Tasa de crecimiento anual del PIB real per cápita"
+      "title": "GDP per capita growth (annual %) at Census Tract"
     },
     {
       "path": "1-1-1/data.csv",

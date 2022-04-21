@@ -35,7 +35,7 @@
           }
         ]
       },
-      "title": "Annual growth rate of real GDP per capita"
+      "title": "GDP per capita growth (annual %) at Census Tract"
     },
     {
       "path": "1-1-1/data.csv",
