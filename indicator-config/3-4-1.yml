@@ -19,7 +19,7 @@ graph_stacked_disaggregation: ''
 graph_title: global_indicators.3-4-1-title
 graph_titles: []
 graph_type: line
-indicator_name: 'Prevalence Rate (%) by Census Tract'
+indicator_name: 'Cardiovascular Disease, Cancer, Diabetes, and chronic Respiratory Disease Prevalence Rate (%)'
 indicator_number: '3.4.1'
 national_geographical_coverage: 'San Diego County'
 page_content: ''
