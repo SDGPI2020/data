@@ -2085,7 +2085,7 @@
           }
         ]
       },
-      "title": "Tasa de mortalidad atribuida a las enfermedades cardiovasculares, el cáncer, la diabetes o las enfermedades respiratorias crónicas"
+      "title": "Prevalence Rate (%) by Census Tract"
     },
     {
       "path": "9-c-1/data.csv",
