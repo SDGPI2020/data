@@ -9,7 +9,7 @@ data_notice_text: ''
 data_show_map: false
 data_start_values: []
 embedded_feature_footer: 'Data Source: Center for Disease Control: PLACES: Local Data for Better Health, 2019'
-embedded_feature_html: <iframe width="1123.4" height="800" title="Cardiovascular Disease, Cancer, Diabetes, and chronic Respiratory Disease Prevalence Rate (%)" src="https://sdgpi2020.github.io/Webmap3_4/" frameborder="0" allowFullScreen="true"></iframe>
+embedded_feature_html: <iframe width="1123.4" height="800" title="Cardiovascular Disease, Cancer, Diabetes, and Chronic Respiratory Disease Prevalence Rate (%)" src="https://sdgpi2020.github.io/Webmap3_4/" frameborder="0" allowFullScreen="true"></iframe>
 embedded_feature_tab_title: 'Map'
 embedded_feature_url: ''
 expected_disaggregations: []
