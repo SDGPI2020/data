@@ -19,7 +19,9 @@ CONTACT_EMAIL: >-
 STAT_CONC_DEF: >- 
   ## Definition:
     Due to inaccessibility of mortality rate at the Census Tract level, prevalence of cardiovascular disease, 
-    cancer, diabetes, and chronic respiratory diseases were used.Mortality rate attributed to cardiovascular disease, 
+    cancer, diabetes, and chronic respiratory diseases was used.
+    
+    Mortality rate attributed to cardiovascular disease, 
     cancer, diabetes or chronic respiratory disease.Probability of dying between the ages of 30 and 70 years from 
     cardiovascular diseases, cancer, diabetesor chronic respiratory diseases, defined as the per cent of 
     30-year-old-people who would die before their70th birthday from cardiovascular disease, cancer, diabetes, or chronic 
