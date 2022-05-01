@@ -55,8 +55,7 @@ COLL_METHOD: >-
 FREQ_COLL: >-
 REL_CAL_POLICY: >-
 DATA_SOURCE: >- 
-CDC PLACES: >-  
-    Local Data for Better Health, Census Tract Data
+  CDC PLACES: Local Data for Better Health, Census Tract Data
 COMPILING_ORG: >-
 INST_MANDATE: >-
 RATIONALE: >-
