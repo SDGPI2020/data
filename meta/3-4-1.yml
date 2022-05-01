@@ -5,9 +5,9 @@ SDG_TARGET: >-
   through prevention and treatment and promote mental health and well-being
 SDG_INDICATOR: >-
   Indicator 3.4.1: Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease
+SDG_SERIES_DESCR: >-
     Due to inaccessibility of mortality rate at the Census Tract level, prevalence of cardiovascular disease, 
     cancer, diabetes, and chronic respiratory diseases was used.
-SDG_SERIES_DESCR: >-
 META_LAST_UPDATE: >-
 SDG_RELATED_INDICATORS: >-
 SDG_CUSTODIAN_AGENCIES: >-
