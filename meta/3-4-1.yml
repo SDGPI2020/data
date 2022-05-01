@@ -17,16 +17,17 @@ CONTACT_PHONE: >-
 CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 STAT_CONC_DEF: >- 
-  ## Definition:
     Due to inaccessibility of mortality rate at the Census Tract level, prevalence of cardiovascular disease, 
     cancer, diabetes, and chronic respiratory diseases was used.
     
-    Mortality rate attributed to cardiovascular disease, 
-    cancer, diabetes or chronic respiratory disease.Probability of dying between the ages of 30 and 70 years from 
-    cardiovascular diseases, cancer, diabetesor chronic respiratory diseases, defined as the per cent of 
-    30-year-old-people who would die before their70th birthday from cardiovascular disease, cancer, diabetes, or chronic 
-    respiratory disease, assuming thats/he would experience current mortality rates at every age and s/he would not die from any 
-    other causeof death (e.g., injuries or HIV/AIDS). This indicator is calculated using life table methods (see furtherdetails in section 3.3).
+  ## Definition:
+
+    Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease.
+    Probability of dying between the ages of 30 and 70 years from cardiovascular diseases, cancer, diabetesor 
+    chronic respiratory diseases, defined as the per cent of 30-year-old-people who would die before their 70th 
+    birthday from cardiovascular disease, cancer, diabetes, or chronic respiratory disease, assuming that s/he 
+    would experience current mortality rates at every age and s/he would not die from any 
+    other causeof death (e.g., injuries or HIV/AIDS). 
   
   ## Concepts:
   
@@ -50,8 +51,8 @@ COLL_METHOD: >-
     help develop and carry out effective, targeted public health prevention activities. Because the small area model 
     cannot detect effects due to local interventions, users are cautioned against using these estimates for 
     program or policy evaluations. Data sources used to generate these model-based estimates include 
-    Behavioral Risk Factor Surveillance System (BRFSS) 2019 or 2018 data, Census Bureau 2010 population 
-    data, and American Community Survey (ACS) 
+    Behavioral Risk Factor Surveillance System (BRFSS) data, Census Bureau 2010 population 
+    data, and American Community Survey (ACS).
 FREQ_COLL: >-
 REL_CAL_POLICY: >-
 DATA_SOURCE: >- 
