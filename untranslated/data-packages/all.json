@@ -77,6 +77,42 @@
       "title": "GDP per capita growth (annual %) at Census Tract"
     },
     {
+      "path": "3-4-1/data.csv",
+      "name": "3-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Condition",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Asthma",
+                "COPD",
+                "Coronary Heart Disease",
+                "Diabetes",
+                "Cancer (except skin)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Cardiovascular Disease, Cancer, Diabetes, and chronic Respiratory Disease Prevalence Rate (%)"
+    },
+    {
       "path": "1-1-1/data.csv",
       "name": "1-1-1",
       "profile": "tabular-data-resource",
@@ -1253,28 +1289,6 @@
         ]
       },
       "title": "global_indicators.12-4-1-title"
-    },
-    {
-      "path": "3-4-1/data.csv",
-      "name": "3-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Cardiovascular Disease, Cancer, Diabetes, and chronic Respiratory Disease Prevalence Rate (%)"
     },
     {
       "path": "14-2-1/data.csv",

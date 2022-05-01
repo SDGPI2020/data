@@ -83,6 +83,45 @@
       "title": "GDP per capita growth (annual %) at Census Tract"
     },
     {
+      "path": "3-4-1/data.csv",
+      "name": "3-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Condition",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Asthma",
+                "COPD",
+                "Cancer (except skin)",
+                "Coronary Heart Disease",
+                "Diabetes"
+              ]
+            },
+            "title": "Condition"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Cardiovascular Disease, Cancer, Diabetes, and chronic Respiratory Disease Prevalence Rate (%)"
+    },
+    {
       "path": "1-1-1/data.csv",
       "name": "1-1-1",
       "profile": "tabular-data-resource",
@@ -1366,30 +1405,6 @@
         ]
       },
       "title": "Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement"
-    },
-    {
-      "path": "3-4-1/data.csv",
-      "name": "3-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Cardiovascular Disease, Cancer, Diabetes, and chronic Respiratory Disease Prevalence Rate (%)"
     },
     {
       "path": "14-2-1/data.csv",

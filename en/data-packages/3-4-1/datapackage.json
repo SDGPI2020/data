@@ -11,13 +11,28 @@
       "schema": {
         "fields": [
           {
+            "name": "Condition",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Asthma",
+                "COPD",
+                "Cancer (except skin)",
+                "Coronary Heart Disease",
+                "Diabetes"
+              ]
+            },
+            "title": "Condition"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]
