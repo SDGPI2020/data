@@ -262,13 +262,13 @@ prose:
             label: References and Documentation (global)
             translation_key: metadata_fields.OTHER_DOC
             scope: global
-      ######### National Metadata #########
+      ######### County Metadata #########
       - name: SDG_INDICATOR_INFO
         field:
             element: text
             label: Indicator information
             translation_key: metadata_fields.SDG_INDICATOR_INFO
-            scope: national
+            scope: County
       - name: SDG_GOAL
         field:
             element: text
