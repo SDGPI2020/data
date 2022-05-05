@@ -2940,7 +2940,7 @@
           }
         ]
       },
-      "title": "Proporción de la población con cobertura de red móvil, desglosada por tecnología"
+      "title": "Broadband Access Rate (%)"
     },
     {
       "path": "9-b-1/data.csv",
