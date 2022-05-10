@@ -9,7 +9,7 @@ data_notice_text: ''
 data_show_map: false
 data_start_values: []
 embedded_feature_footer: ''
-embedded_feature_footer: 'Data Source: US Census American Community Survey (ACS) 1-Year 2016 & 2018'
+embedded_feature_footer: 'Data Source: US Census American Community Survey (ACS) 5-Year 2016 & 2018'
 embedded_feature_html: <iframe width="1123.4" height="800" title="GDP per capita growth (annual %)" src="https://sdgpi2020.github.io/Webmap_8_1/" frameborder="0" allowFullScreen="true"></iframe>
 embedded_feature_tab_title: 'Map'
 embedded_feature_url: ''
@@ -20,7 +20,7 @@ graph_stacked_disaggregation: ''
 graph_title: global_indicators.8-1-1-title
 graph_titles: []
 graph_type: line
-indicator_name: 'GDP per capita growth (annual %) at Census Tract'
+indicator_name: 'Per Capita Income Growth(average annual %) at Census Tract'
 indicator_number: '8.1.1'
 national_geographical_coverage: 'San Diego County'
 page_content: ''
