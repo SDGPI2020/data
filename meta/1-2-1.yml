@@ -34,7 +34,7 @@ STAT_CONC_DEF: >-
     of living is typically higher in urban areas than in rural areas. Some countries may have separate urban and
     rural poverty lines to represent different purchasing powers.  
 UNIT_MEASURE: >-
-The unit of measures is the proportion of the population per census tract. 
+    The unit of measures is the proportion of the population per census tract. 
 CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
 COL_METHOD: >-
