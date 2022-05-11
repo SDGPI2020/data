@@ -11,29 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Education",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Bachelor's Degree > 25",
-                "Bachelor's or higher",
-                "Graduate Degree > 25",
-                "Graduate Degree > 25 ",
-                "Graduate Degree > 29",
-                "High School Graduate or higher"
-              ]
-            },
-            "title": "Education"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           }
         ]

@@ -12,22 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Education",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Bachelor's Degree > 25",
-                "Graduate Degree > 25 ",
-                "Graduate Degree > 25",
-                "Graduate Degree > 29",
-                "High School Graduate or higher",
-                "Bachelor's or higher",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
