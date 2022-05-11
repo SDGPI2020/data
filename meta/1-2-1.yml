@@ -1,10 +1,10 @@
 SDG_GOAL: >-
-  Goal 3: Ensure healthy lives and promote well-being for all at all ages 
+  Goal 1: End poverty in all its forms everywhere 
 SDG_TARGET: >-
-  Target 3.4: By 2030, reduce by one third premature mortality from non-communicable diseases 
-  through prevention and treatment and promote mental health and well-being
+  Target 1.2: By 2030, reduce at least by half the proportion of men, women and children of all ages 
+  living in poverty in all its dimensions according to national definitions. 
 SDG_INDICATOR: >-
-  Indicator 3.4.1: Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease
+  Indicator 1.2.1: Proportion of population living below the national poverty line, by sex and age
 SDG_SERIES_DESCR: >-
     Due to inaccessibility of mortality rate at the Census Tract level, prevalence of cardiovascular disease, 
     cancer, diabetes, and chronic respiratory diseases was used.
@@ -21,41 +21,37 @@ CONTACT_EMAIL: >-
 STAT_CONC_DEF: >-  
   ## Definition:
 
-    Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease.
-    Probability of dying between the ages of 30 and 70 years from cardiovascular diseases, cancer, diabetesor 
-    chronic respiratory diseases, defined as the per cent of 30-year-old-people who would die before their 70th 
-    birthday from cardiovascular disease, cancer, diabetes, or chronic respiratory disease, assuming that s/he 
-    would experience current mortality rates at every age and s/he would not die from any 
-    other causeof death (e.g., injuries or HIV/AIDS). 
+    The national poverty rate is the percentage of the total population living below the national poverty line. 
+    The rural poverty rate is the percentage of the rural population living below the national poverty line 
+    (or in cases where a separate, rural poverty line is used, the rural poverty line). Urban poverty rate is 
+    the percentage of the urban population living below the national poverty line (or in cases where a 
+    separate, urban poverty line is used, the urban poverty line). 
   
   ## Concepts:
   
-    Disease burden from non-communicable diseases (NCDs) among adults is rapidly increasing globally due to ageing 
-    and epidemiological transitions. Cardiovascular diseases, cancer, diabetes and chronicrespiratory diseases are 
-    the four main causes of NCD burden. Measuring the risk of dying from these fourmajor causes is important to 
-    assess the extent of burden from premature mortality due NCDs in a population.
+    In assessing poverty in a given country, and how best to reduce poverty according to national definitions, 
+    one naturally focuses on a poverty line that is considered appropriate for that country. Poverty lines 
+    across countries vary in terms of their purchasing power, and they have a strong economic gradient, such 
+    that richer countries tend to adopt higher standards of living in defining poverty. Within a country, the cost 
+    of living is typically higher in urban areas than in rural areas. Some countries may have separate urban and
+    rural poverty lines to represent different purchasing powers.
+    
 UNIT_MEASURE: >-
+The unit of measures is the proportion of the population per census tract. 
 CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
 COLL_METHOD: >-
-    This dataset contains model-based census tract-level estimates for the PLACES 2021 release. 
-    PLACES is the expansion of the original 500 Cities project and covers the entire United States—50 
-    states and the District of Columbia (DC)—at county, place, census tract, and ZIP Code Tabulation Area 
-    (ZCTA) levels. It represents a first-of-its kind effort to release information uniformly on this large scale 
-    for local areasat 4 geographic levels. Estimates were provided by the Centers for Disease Control and 
-    Prevention (CDC), Division of Population Health, Epidemiology and Surveillance Branch. PLACES was funded 
-    by the Robert Wood Johnson Foundation (RWJF) in conjunction with the CDC Foundation. The dataset includes 
-    estimates for 29 measures: 4 chronic disease-related health risk behaviors, 13 health outcomes, 3 health status, 
-    and 9 on use of preventive services. These estimates can be used to identify emerging health problems and to 
-    help develop and carry out effective, targeted public health prevention activities. Because the small area model 
-    cannot detect effects due to local interventions, users are cautioned against using these estimates for 
-    program or policy evaluations. Data sources used to generate these model-based estimates include 
-    Behavioral Risk Factor Surveillance System (BRFSS) data, Census Bureau 2010 population 
-    data, and American Community Survey (ACS).
+The American Community Survey (ACS) is an ongoing survey that provides data every year -- giving communities the 
+current information they need to plan investments and services. The ACS covers a broad range of topics about 
+social, economic, demographic, and housing characteristics of the U.S. population.
+
+The 5-year estimates from the ACS are "period" estimates that represent data collected over a period of time. 
+The primary advantage of using multiyear estimates is the increased statistical reliability of the data 
+for less populated areas and small population subgroups.
 FREQ_COLL: >-
 REL_CAL_POLICY: >-
 DATA_SOURCE: >- 
-  CDC PLACES: Local Data for Better Health, Census Tract Data
+  American Community Survey 5-Year Data (2019)
 COMPILING_ORG: >-
 INST_MANDATE: >-
 RATIONALE: >-
