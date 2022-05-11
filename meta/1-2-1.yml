@@ -6,8 +6,6 @@ SDG_TARGET: >-
 SDG_INDICATOR: >-
   Indicator 1.2.1: Proportion of population living below the national poverty line, by sex and age
 SDG_SERIES_DESCR: >-
-    Due to inaccessibility of mortality rate at the Census Tract level, prevalence of cardiovascular disease, 
-    cancer, diabetes, and chronic respiratory diseases was used.
 META_LAST_UPDATE: >-
 SDG_RELATED_INDICATORS: >-
 SDG_CUSTODIAN_AGENCIES: >-
@@ -34,24 +32,22 @@ STAT_CONC_DEF: >-
     across countries vary in terms of their purchasing power, and they have a strong economic gradient, such 
     that richer countries tend to adopt higher standards of living in defining poverty. Within a country, the cost 
     of living is typically higher in urban areas than in rural areas. Some countries may have separate urban and
-    rural poverty lines to represent different purchasing powers.
-    
+    rural poverty lines to represent different purchasing powers.  
 UNIT_MEASURE: >-
 The unit of measures is the proportion of the population per census tract. 
 CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
-COLL_METHOD: >-
-The American Community Survey (ACS) is an ongoing survey that provides data every year -- giving communities the 
-current information they need to plan investments and services. The ACS covers a broad range of topics about 
-social, economic, demographic, and housing characteristics of the U.S. population.
-
-The 5-year estimates from the ACS are "period" estimates that represent data collected over a period of time. 
-The primary advantage of using multiyear estimates is the increased statistical reliability of the data 
-for less populated areas and small population subgroups.
+COL_METHOD: >-
+   The American Community Survey (ACS) is an ongoing survey that provides data every year -- giving communities the 
+   current information they need to plan investments and services. The ACS covers a broad range of topics about 
+   social, economic, demographic, and housing characteristics of the U.S. population.
+    The 5-year estimates from the ACS are "period" estimates that represent data collected over a period of time. 
+    The primary advantage of using multiyear estimates is the increased statistical reliability of the data 
+    for less populated areas and small population subgroups.
 FREQ_COLL: >-
 REL_CAL_POLICY: >-
 DATA_SOURCE: >- 
-  American Community Survey 5-Year Data (2019)
+    American Community Survey 5-Year Data (2019)
 COMPILING_ORG: >-
 INST_MANDATE: >-
 RATIONALE: >-
