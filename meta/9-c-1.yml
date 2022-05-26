@@ -1,13 +1,10 @@
 SDG_GOAL: >-
-  Goal 3: Ensure healthy lives and promote well-being for all at all ages 
+  Goal 9. Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation 
 SDG_TARGET: >-
-  Target 3.4: By 2030, reduce by one third premature mortality from non-communicable diseases 
-  through prevention and treatment and promote mental health and well-being
+  Target 9.c: Significantly increase access to information and communications technology and strive to provide 
+  universal and affordable access to the Internet in least developed countries by 2020
 SDG_INDICATOR: >-
-  Indicator 3.4.1: Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease
-SDG_SERIES_DESCR: >-
-    Due to inaccessibility of mortality rate at the Census Tract level, prevalence of cardiovascular disease, 
-    cancer, diabetes, and chronic respiratory diseases was used.
+ Indicator 9.c.1: Proportion of population covered by a mobile network, by technology (we define as broadband access)
 META_LAST_UPDATE: >-
 SDG_RELATED_INDICATORS: >-
 SDG_CUSTODIAN_AGENCIES: >-
@@ -30,32 +27,35 @@ STAT_CONC_DEF: >-
   
   ## Concepts:
   
-    Disease burden from non-communicable diseases (NCDs) among adults is rapidly increasing globally due to ageing 
-    and epidemiological transitions. Cardiovascular diseases, cancer, diabetes and chronicrespiratory diseases are 
-    the four main causes of NCD burden. Measuring the risk of dying from these fourmajor causes is important to 
-    assess the extent of burden from premature mortality due NCDs in a population.
+    "The indicator is based on where the population lives, and not where they work or go to school, etc.
+    When there are multiple operators offering the service, the maximum population number covered should
+    be reported. Coverage should refer to LTE, broadband (3G) and narrowband (2G) mobile-cellular
+    technologies and include: - 2G mobile population coverage: Mobile networks with access to data communications (e.g. Internet) at
+    downstream speeds below 256 Kbit/s. This includes mobile-cellular technologies such as GPRS,
+    CDMA2000 1x and most EDGE implementations. The indicator refers to the theoretical ability of
+    subscribers to use non-broadband speed mobile data services, rather than the number of active users of
+    such services.
+    - 3G population coverage: refers to the percentage of inhabitants that are within range of at least a 3G
+    mobile-cellular signal, irrespective of whether or not they are subscribers. This is calculated by dividing
+    the number of inhabitants that are covered by at least a 3G mobile-cellular signal by the total population
+    and multiplying by 100. It excludes people covered only by GPRS, EDGE or CDMA 1xRTT.
+    - LTE population coverage: Refers to the percentage of inhabitants that live within range of LTE/LTE-
+    Advanced, mobile WiMAX/WirelessMAN or other more advanced mobile-cellular networks, irrespective
+    of whether or not they are subscribers. This is calculated by dividing the number of inhabitants that are
+    covered by the previously mentioned mobile-cellular technologies by the total population and multiplying
+    by 100. It excludes people covered only by HSPA, UMTS, EV-DO and previous 3G technologies, and also
+    excludes fixed WiMAX coverage.
+    As technologies evolve and as more and more countries will deploy and commercialize more advanced
+    mobile-broadband networks (5G etc.), the indicator will include further breakdo
 UNIT_MEASURE: >-
+    Proportion of population covered.
 CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
 COLL_METHOD: >-
-    This dataset contains model-based census tract-level estimates for the PLACES 2021 release. 
-    PLACES is the expansion of the original 500 Cities project and covers the entire United States—50 
-    states and the District of Columbia (DC)—at county, place, census tract, and ZIP Code Tabulation Area 
-    (ZCTA) levels. It represents a first-of-its kind effort to release information uniformly on this large scale 
-    for local areasat 4 geographic levels. Estimates were provided by the Centers for Disease Control and 
-    Prevention (CDC), Division of Population Health, Epidemiology and Surveillance Branch. PLACES was funded 
-    by the Robert Wood Johnson Foundation (RWJF) in conjunction with the CDC Foundation. The dataset includes 
-    estimates for 29 measures: 4 chronic disease-related health risk behaviors, 13 health outcomes, 3 health status, 
-    and 9 on use of preventive services. These estimates can be used to identify emerging health problems and to 
-    help develop and carry out effective, targeted public health prevention activities. Because the small area model 
-    cannot detect effects due to local interventions, users are cautioned against using these estimates for 
-    program or policy evaluations. Data sources used to generate these model-based estimates include 
-    Behavioral Risk Factor Surveillance System (BRFSS) data, Census Bureau 2010 population 
-    data, and American Community Survey (ACS).
 FREQ_COLL: >-
 REL_CAL_POLICY: >-
 DATA_SOURCE: >- 
-  CDC PLACES: Local Data for Better Health, Census Tract Data
+  American Community Survey, 5-Year Data (2019) 
 COMPILING_ORG: >-
 INST_MANDATE: >-
 RATIONALE: >-
