@@ -6,8 +6,6 @@ SDG_TARGET: >-
 SDG_INDICATOR: >-
   Indicator 8.5.2: Unemployment rate, by sex, age and persons with disabilities 
 SDG_SERIES_DESCR: >-
-    Due to inaccessibility of mortality rate at the Census Tract level, prevalence of cardiovascular disease, 
-    cancer, diabetes, and chronic respiratory diseases was used.
 META_LAST_UPDATE: >-
 SDG_RELATED_INDICATORS: >-
 SDG_CUSTODIAN_AGENCIES: >-
