@@ -1,10 +1,10 @@
 SDG_GOAL: >-
-  Goal 3: Ensure healthy lives and promote well-being for all at all ages 
+  Goal 8. Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all
 SDG_TARGET: >-
-  Target 3.4: By 2030, reduce by one third premature mortality from non-communicable diseases 
-  through prevention and treatment and promote mental health and well-being
+  Target 8.5: By 2030, achieve full and productive employment and decent work for all women and men, including 
+  for young people and persons with disabilities, and equal pay for work of equal value 
 SDG_INDICATOR: >-
-  Indicator 3.4.1: Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease
+  Indicator 8.5.2: Unemployment rate, by sex, age and persons with disabilities 
 SDG_SERIES_DESCR: >-
     Due to inaccessibility of mortality rate at the Census Tract level, prevalence of cardiovascular disease, 
     cancer, diabetes, and chronic respiratory diseases was used.
@@ -21,20 +21,35 @@ CONTACT_EMAIL: >-
 STAT_CONC_DEF: >-  
   ## Definition:
 
-    Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease.
-    Probability of dying between the ages of 30 and 70 years from cardiovascular diseases, cancer, diabetesor 
-    chronic respiratory diseases, defined as the per cent of 30-year-old-people who would die before their 70th 
-    birthday from cardiovascular disease, cancer, diabetes, or chronic respiratory disease, assuming that s/he 
-    would experience current mortality rates at every age and s/he would not die from any 
-    other causeof death (e.g., injuries or HIV/AIDS). 
+    The unemployment rate conveys the percentage of persons in the labour force who are unemployed.. 
   
   ## Concepts:
   
-    Disease burden from non-communicable diseases (NCDs) among adults is rapidly increasing globally due to ageing 
-    and epidemiological transitions. Cardiovascular diseases, cancer, diabetes and chronicrespiratory diseases are 
-    the four main causes of NCD burden. Measuring the risk of dying from these fourmajor causes is important to 
-    assess the extent of burden from premature mortality due NCDs in a population.
+    Unemployed persons are defined as all those of working age (usually aged 15 and above) who were not
+    in employment, carried out activities to seek employment during a specified recent period and were
+    currently available to take up employment given a job opportunity, where: (a) “not in employment”
+    is assessed with respect to the short reference period for the measurement of employment; (b) to
+    “seek employment” refers to any activity when carried out, during a specified recent period comprising
+    the last four weeks or one month, for the purpose of finding a job or setting up a business or
+    agricultural undertaking; (c) the point when the enterprise starts to exist should be used to distinguish
+    between search activities aimed at setting up a business and the work activity itself, as evidenced by the
+    enterprise’s registration to operate or by when financial resources become available, the necessary
+    infrastructure or materials are in place or the first client or order is received, depending on the context;
+    (d) “currently available” serves as a test of readiness to start a job in the present, assessed with respect
+    to a short reference period comprising that used to measure employment (depending on national
+    circumstances, the reference period may be extended to include a short subsequent period not
+    exceeding two weeks in total, so as to ensure adequate coverage of unemployment situations among
+    different population groups).
+    Persons in employment are defined as all those of working age (usually aged 15 and above) who, during a
+    short reference period such as one week or one day, were engaged in any activity to produce goods or
+    provide services for pay or profit.
+    The labour force corresponds to the sum of persons in employment and in unemployment.
+    For more information on the definitions of employment and unemployment refer to the Resolution
+    concerning statistics of work, employment and labour underutilization Adopted by the 19th International
+    Conference of Labour Statisticians. 
+   
 UNIT_MEASURE: >-
+    Percent(%)
 CLASS_SYSTEM: >-
 SOURCE_TYPE: >-
 COLL_METHOD: >-
@@ -55,7 +70,7 @@ COLL_METHOD: >-
 FREQ_COLL: >-
 REL_CAL_POLICY: >-
 DATA_SOURCE: >- 
-  CDC PLACES: Local Data for Better Health, Census Tract Data
+    American Community Survey 5-Year Data (2019)
 COMPILING_ORG: >-
 INST_MANDATE: >-
 RATIONALE: >-
