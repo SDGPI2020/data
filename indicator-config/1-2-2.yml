@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -8,25 +8,25 @@ data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
 data_start_values: []
-embedded_feature_footer: ''
-embedded_feature_html: ''
-embedded_feature_tab_title: ''
-embedded_feature_title: ''
+embedded_feature_footer: 'Data Source: US Census American Community Survey (ACS) 5-Year Estimate 2019'
+embedded_feature_html: <iframe width="1123.4" height="800" title="Proportion of Degrees in San Diego" src="https://sdgpi2020.github.io/SDG-mapping-practice/" frameborder="0" allowFullScreen="true"></iframe>
+embedded_feature_tab_title: 'Map'
+embedded_feature_title: 'Proportion of the Population in Poverty in San Diego by Census Tract'
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.1-2-2-title
+graph_title: global_indicators.1-2-1-title
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.1-2-2-title
-indicator_number: '1.2.2'
+indicator_name: global_indicators.1-2-1-title
+indicator_number: '1.2.1'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
